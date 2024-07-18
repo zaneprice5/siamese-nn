@@ -2,3 +2,5 @@ data/anchor
 data/positive
 data/negative
 lfw.tgz
+training_checkpoints
+siamesemodel.h5
