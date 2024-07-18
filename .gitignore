@@ -4,3 +4,4 @@ data/negative
 lfw.tgz
 training_checkpoints
 siamesemodel.h5
+application_data
